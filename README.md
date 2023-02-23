@@ -17,3 +17,12 @@ Abc)nmg                 Wrong bracket closed but never opened
 
 ```
 
+Hint: The trick here is to  push an “open” bracket to the stack and pop when you find a “closed” bracket 
+
+## Development
+
+The code was developed using Python.
+
+## Testing 
+
+The test for this project is in `stack.py`. The test will run automatically when you hit the "Run" button.
