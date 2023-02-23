@@ -3,7 +3,7 @@
 ## Asignment
 
 Stacks are used to check that parentheses match in an equation.
-Write a program that asks the user to input a string containing parentheses of the three types:   ( )  [  ] and {  } and then tell him/her whether they are right or wrong.
+Write a program that asks the user to input a string containing parentheses of the three types:   "( )"  "[  ]" and "{  }" and then tell him/her whether they are right or wrong.
 
 For example:
 
